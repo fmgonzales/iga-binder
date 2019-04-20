@@ -1,3 +1,7 @@
+channels:
+  - cvxgrp
+  - conda-forge
+  - defaults
 dependencies:
   - matplotlib
   - numpy
@@ -7,12 +11,10 @@ dependencies:
   - psycopg2
   - sqlalchemy 
   - deap
-  - pywin32
   - update_checker 
   - tqdm
   - stopit
   - xgboost
   - tpot
-  - h2oai
   - tensorflow
   
