@@ -1,6 +1,5 @@
 channels:
   - cvxgrp
-  - conda-forge
   - defaults
 dependencies:
   - matplotlib
@@ -10,11 +9,6 @@ dependencies:
   - scikit-learn
   - psycopg2
   - sqlalchemy 
-  - deap
-  - update_checker 
-  - tqdm
-  - stopit
   - xgboost
-  - tpot
   - tensorflow
   
