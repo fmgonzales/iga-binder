@@ -5,3 +5,15 @@ dependencies:
   - seaborn
   - scikit-learn
   - psycopg2
+  - sqlalchemy 
+  - deap
+  - pywin32
+  - update_checker 
+  - tqdm
+  - stopit
+  - xgboost
+  - tpot
+  - cvxpy==0.4.10
+  - h2oai
+  - tensorflow
+  
