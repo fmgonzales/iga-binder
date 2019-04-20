@@ -8,14 +8,7 @@ depend, specified as though they were created using the following `conda` comman
 source activate p36ml
 ```
 
-Note that the only libraries available to you will be the ones specified in
-the `environment.yml`, so be sure to include everything that you need! 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fmgonzales/iga-binder.git/master?urlpath=https%3A%2F%2Fgithub.com%2Ffmgonzales%2Figa-binder%2Fraw%2Fmaster%2FIGA_Model_Comparison.ipynb)
 
-Also note that conda will possibly try to include OS-specific packages in `environment.yml`, so you
-may have to manually prune `environment.yml` to get rid of these packages. Confirmed Mac-OSX-specific
-packages that should be removed are:
-
-* libcxxabi=4.0.1
-* appnope=0.1.0
-* libgfortran=3.0.1
-* libcxx=4.0.1
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/fmgonzales/iga-binder.git/master?urlpath=https%3A%2F%2Fgithub.com%2Ffmgonzales%2Figa-binder%2Fraw%2Fmaster%2FIGA_Model_Comparison.ipynb
