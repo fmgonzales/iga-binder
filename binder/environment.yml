@@ -2,3 +2,7 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - seaborn
+  - scikit-learn
+  - psycopg2
+  - r-base-3.5.1
