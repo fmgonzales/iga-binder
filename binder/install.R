@@ -58,6 +58,10 @@ install.packages("mgcv")
 install.packages("pastecs")
 install.packages("lattice")
 
+install.packages("tensorflow")
+install.packages("keras")
+install.packages("tfestimators")
+install.packages("lattice")
 
 
 
